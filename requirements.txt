@@ -1,0 +1,8 @@
+pyvis
+pynsee
+pandas
+numpy
+seaborn
+shapely
+plotly
+PIL
